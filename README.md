@@ -22,3 +22,10 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Sevidor json-Server
+Para criar o servidor de arquivos de teste. Deve-se ter instalado na máquina a ferramenta json-server
+
+```
+json-server --watch db.json
+```
